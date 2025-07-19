@@ -33,7 +33,7 @@ export default function Home() {
         {/* Header */}
         <div className="text-center mb-12">
           <h1 className="text-5xl font-bold text-white mb-4 drop-shadow-lg">
-            ⛅ Weather Dashboard
+            ⛅ Weather Dashboard using open-meteo api
           </h1>
           <p className="text-blue-100 text-lg">
             Get current weather information for any city worldwide
